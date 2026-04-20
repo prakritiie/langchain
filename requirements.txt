@@ -5,3 +5,8 @@ pypdf
 bs4
 arxiv
 pymupdf
+langchain-openai
+chromadb
+langchain_community
+sentence_transformers
+langchain_huggingface
