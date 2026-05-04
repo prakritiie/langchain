@@ -13,3 +13,4 @@ langchain_huggingface
 faiss-cpu
 beautifulsoup4
 langchain-google-genai
+streamlit
